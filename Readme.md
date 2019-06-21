@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to create header and data cell bands
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t399420/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to organize <strong>ASPxGridView</strong> columns and data cells into logical groups (bands) and display them using multi-row representation. Bands can be created by columns of the <a href="http://help.devexpress.com/#AspNet/clsDevExpressWebGridViewBandColumntopic">GridViewBandColumn</a> type (header bands) or by using data columns bound to the grid (data cell bands). </p>
